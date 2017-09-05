@@ -24,7 +24,7 @@ Valuable ERC20-Tokens for https://etherpush.io
 
 # Hint
 
-Anyone Can Send A Pull Request To This Repositorie, But Make sure the format is the following:
+Anyone Can Send A Pull Request To This Repositoriy, But Make sure the format is the following:
 
 ```
   "ETH": {
@@ -37,3 +37,5 @@ Anyone Can Send A Pull Request To This Repositorie, But Make sure the format is 
     "website": "https://www.ethereum.org"
   }
 ```
+
+PS: [etherpush-toolkit](https://github.com/etherpush/toolkit) will be useful to help you get the meta data
