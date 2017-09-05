@@ -21,3 +21,19 @@
 
 # ERC20-Tokens
 Valuable ERC20-Tokens for https://etherpush.io
+
+# Hint
+
+Anyone Can Send A Pull Request To This Repositorie, But Make sure the format is the following:
+
+```
+  "ETH": {
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "name": "ETH",
+    "title": "Ethereum Project",
+    "desc": "Ethereum is a decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference.",
+    "icon": "https://www.ethereum.org/favicon.ico",
+    "website": "https://www.ethereum.org"
+  }
+```
